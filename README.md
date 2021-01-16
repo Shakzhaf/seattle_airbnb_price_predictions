@@ -45,9 +45,8 @@ With the help of this heatmap we can conclude that room_type, host_listings_coun
 Conclusion from the Pie Chart  
 ![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/piechart.JPG)    
 Shared Room: 2.25%      
-Private Room: 21.35%
-Entire home/apt: 76.40%
-Shared Room: 2.25%    
+Private Room: 21.35%   
+Entire home/apt: 76.40%  
 
 - Property Type Distribution
 ![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/no_vs_property_type.JPG)
