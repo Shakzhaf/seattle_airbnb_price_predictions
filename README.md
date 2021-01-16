@@ -35,3 +35,7 @@ You as a Data scientist are required to apply some data science techniques for t
 
 ### Data cleaning
 ![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/cleaning.JPG)
+
+### Data Visualizations
+- Correlations with the help of Heatmaps 
+![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/Heatmap.JPG)
