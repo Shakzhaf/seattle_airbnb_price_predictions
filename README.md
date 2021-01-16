@@ -39,3 +39,4 @@ You as a Data scientist are required to apply some data science techniques for t
 ### Data Visualizations
 - Correlations with the help of Heatmaps 
 ![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/Heatmap.JPG)
+- With the help of this heatmap we can conclude that room_type, host_listings_count, cleaning_fee, bedrooms, accommodates, bathrooms, guests_included, cancellation_policy are highly correlated.
