@@ -47,6 +47,7 @@ Conclusion from the Pie Chart
 Shared Room: 2.25%      
 Private Room: 21.35%
 Entire home/apt: 76.40%
+Shared Room: 2.25%    
 
 - Property Type Distribution
 ![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/no_vs_property_type.JPG)
