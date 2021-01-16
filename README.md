@@ -32,3 +32,6 @@ You as a Data scientist are required to apply some data science techniques for t
 - values in the price column contain the dollar symbol ($)
 - there are no missing values in columns bathrooms, bedrooms, and beds
 - there is a particular listing where no of bedrooms is 0. (which is then dropped in teh later stage)
+
+### Data cleaning
+![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/cleaning.JPG)
