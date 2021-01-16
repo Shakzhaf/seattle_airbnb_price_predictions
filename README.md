@@ -42,8 +42,8 @@ You as a Data scientist are required to apply some data science techniques for t
 With the help of this heatmap we can conclude that room_type, host_listings_count, cleaning_fee, bedrooms, accommodates, bathrooms, guests_included, cancellation_policy are highly correlated.
 
 - Room Type Distribition
-Conclusion from the Pie Chart  
 ![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/piechart.JPG)    
+Conclusion from the Pie Chart     
 Shared Room: 2.25%      
 Private Room: 21.35%   
 Entire home/apt: 76.40%  
@@ -51,5 +51,12 @@ Entire home/apt: 76.40%
 - Property Type Distribution
 ![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/no_vs_property_type.JPG)
 Owners are more inclines to listing their property as a whole and not just a part of their house.  
-The data is filled with Apartment and House although there are other peoperty type listed here and there.   
+The data is filled with Apartment and House although there are other peoperty type listed here and there.  
+
+- Price vs Room Types
+![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/price_vs_room_type.JPG)  
+Conclusion from the above Scatter Plot:  
+Owners who are offerring their Entire home/apt are going from low to high price range.   
+Owner who are offerring Private Room are going from low to medium price range.   
+Owners who are offering Shared Rooms are going for low rates.  
 
