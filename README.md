@@ -65,3 +65,48 @@ Owners who are offering Shared Rooms are going for low rates.
 
 Conclusion from the above heatmap  
 It can be analyzed that with the increase in the number of bedrooms price of listing increases. Although, it depends upon the neighbourhood as well(Although there are lot of ouliers in neighbouhood as well).  
+
+### Model Evaluation 
+
+---------------DecisionTree-------------------  
+MAE: 0.7606538641621097  
+MSE: 0.9561492143230277  
+RMSE: 0.9778288266987365  
+R2 0.339032  
+Accuracy -0.9328513487582233  
+---------------Linear ---------------------  
+--Phase-1--   
+MAE: 0.938703  
+RMSE: 1.087538  
+R2 0.182396  
+--Phase-2--  
+MAE: 0.938703  
+RMSE: 1.087538  
+R2 0.182396   
+---------------Ridge ---------------------   
+--Phase-1--   
+MAE: 0.939518  
+RMSE: 1.087467  
+R2 0.182502   
+--Phase-2--   
+MAE: 0.939518
+RMSE: 1.087467   
+R2 0.182502  
+---------------Lasso-----------------------   
+--Phase-1--  
+MAE: 0.938836  
+RMSE: 1.087608   
+R2 0.182291  
+--Phase-2--   
+MAE: 0.938836   
+RMSE: 1.087608  
+R2 0.182291   
+---------------ElasticNet-------------------   
+--Phase-1 --  
+MAE: 0.939612  
+RMSE: 1.088210  
+R2 0.181384  
+--Phase-2--  
+MAE: 0.939612  
+RMSE: 1.088210   
+R2 0.181384  
