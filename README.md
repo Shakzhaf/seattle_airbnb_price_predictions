@@ -38,18 +38,18 @@ You as a Data scientist are required to apply some data science techniques for t
 
 ### Data Visualizations
 - Correlations with the help of Heatmaps 
-![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/Heatmap.JPG)<b/>
+![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/Heatmap.JPG)<b />
 With the help of this heatmap we can conclude that room_type, host_listings_count, cleaning_fee, bedrooms, accommodates, bathrooms, guests_included, cancellation_policy are highly correlated.
 
 - Room Type Distribition
-![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/piechart.JPG)
-- Conclusion from the above Pie Chart<b/>
+![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/piechart.JPG)<b />
+onclusion from the above Pie Chart<b />
 Shared Room: 2.25%
 Private Room: 21.35%
 Entire home/apt: 76.40%
 
 - Property Type Distribution
 ![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/no_vs_property_type.JPG)
-Owners are more inclines to listing their property as a whole and not just a partt of their house.<b/>
-The data is filled with Apartment and House although there are other peoperty type listed here and there.<b/>
+Owners are more inclines to listing their property as a whole and not just a partt of their house.<b />
+The data is filled with Apartment and House although there are other peoperty type listed here and there.<b />
 
