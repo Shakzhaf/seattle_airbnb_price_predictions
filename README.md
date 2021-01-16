@@ -60,3 +60,8 @@ Owners who are offerring their Entire home/apt are going from low to high price 
 Owner who are offerring Private Room are going from low to medium price range.   
 Owners who are offering Shared Rooms are going for low rates.  
 
+- Neighboorhoood vs Bedroom 
+![](https://github.com/Shakzhaf/seattle_airbnb_price_predictions/blob/main/Content/neighbourhood_vs_bedrooms.JPG)
+
+Conclusion from the above heatmap  
+It can be analyzed that with the increase in the number of bedrooms price of listing increases. Although, it depends upon the neighbourhood as well(Although there are lot of ouliers in neighbouhood as well).  
