@@ -2,13 +2,14 @@
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA. 
 
 ## Problem Statement 
-For all prospective Airbnb hosts in Seattle, I will answer these questions in this article:
+For all prospective Airbnb hosts in Seattle, I will answer these questions in this project:
 - when to rent to maximise revenue?
 - when is the off-peak season for maintenance?
 - common group size of Seattle travellers, is it 2 or family or 4 or larger?
 - bedroom configurations to maximise booking rates?
 - how to achieve a good rating?
 - do hosts with higher rating have higher revenue?
+- which areas in have high price an loow price
 
 
 ## Business Objectives:
